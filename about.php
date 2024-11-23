@@ -129,7 +129,7 @@
                         <i class="fa fa-certificate fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Quality Servicing</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                            <p>Ensures the car is safe to drive by maintaining critical systems.</p>
                             <a class="text-secondary border-bottom" href="">Read More</a>
                         </div>
                     </div>
@@ -139,7 +139,7 @@
                         <i class="fa fa-users-cog fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Expert Workers</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                            <p>Expert workers build trust by getting the job done right the first time.</p>
                             <a class="text-secondary border-bottom" href="">Read More</a>
                         </div>
                     </div>
@@ -149,7 +149,7 @@
                         <i class="fa fa-tools fa-3x text-primary flex-shrink-0"></i>
                         <div class="ps-4">
                             <h5 class="mb-3">Modern Equipment</h5>
-                            <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
+                            <p>Modern equipment isn’t just about tools it’s about driving progress and achieving excellence</p>
                             <a class="text-secondary border-bottom" href="">Read More</a>
                         </div>
                     </div>
@@ -176,7 +176,7 @@
                 <div class="col-lg-6">
                     <h6 class="text-primary text-uppercase">// About Us //</h6>
                     <h1 class="mb-4"><span class="text-primary">CarServ</span> Is The Best Place For Your Auto Care</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                    <p class="mb-4">we are committed to delivering exceptional auto care with precision, professionalism, and passion. Our mission is to ensure your vehicle stays in top condition, providing you with safety, reliability, and peace of mind every time you hit the road. Experience the perfect blend of expertise, quality, and customer satisfaction with us</p>
                     <div class="row g-4 mb-3 pb-3">
                         <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
                             <div class="d-flex">
@@ -185,7 +185,7 @@
                                 </div>
                                 <div class="ps-3">
                                     <h6>Professional & Expert</h6>
-                                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                                    <span>Our team of skilled professionals is dedicated to delivering top-tier auto care with unmatched expertise.</span>
                                 </div>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                                 </div>
                                 <div class="ps-3">
                                     <h6>Quality Servicing Center</h6>
-                                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                                    <span>Equipped with modern tools and technology, we ensure your vehicle receives the best care possible.</span>
                                 </div>
                             </div>
                         </div>
@@ -207,7 +207,7 @@
                                 </div>
                                 <div class="ps-3">
                                     <h6>Awards Winning Workers</h6>
-                                    <span>Diam dolor diam ipsum sit amet diam et eos</span>
+                                    <span>Recognized for excellence, our talented workers go above and beyond to provide outstanding service.</span>
                                 </div>
                             </div>
                         </div>
@@ -361,7 +361,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <p></p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
                         <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
@@ -373,7 +373,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
+                        &copy; <a class="border-bottom" href="#">Car Repair</a>, All Right Reserved.
 
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
                         Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>

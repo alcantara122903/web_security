@@ -305,13 +305,13 @@
                                     <img class="img-fluid rounded-circle mx-auto mb-4" src="img/testimonial-1.jpg" style="width: 100px; height: 100px;">
                                     <h5 class="mb-1">Client Name</h5>
                                     <p>Profession</p>
-                                    <p class="mb-0">Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                                    <p class="mb-0">Exceptional service! My car has never run smoother. The team at CarServ is professional and thorough.</p>
                                 </div>
                                 <div class="testimonial-item text-center">
                                     <img class="img-fluid rounded-circle mx-auto mb-4" src="img/testimonial-2.jpg" style="width: 100px; height: 100px;">
                                     <h5 class="mb-1">Client Name</h5>
                                     <p>Profession</p>
-                                    <p class="mb-0">Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                                    <p class="mb-0">The best auto care experience I've ever had. Friendly staff and top-notch equipment!</p>
                                 </div>
                             </div>
                         </div>
@@ -334,7 +334,7 @@
                 <div class="bg-secondary rounded-top p-4">
                     <div class="row">
                         <div class="col-12 col-sm-6 text-center text-sm-start">
-                            &copy; <a href="#">Your Site Name</a>, All Right Reserved. 
+                            &copy; <a href="#">Car Repair</a>, All Right Reserved. 
                         </div>
                         <div class="col-12 col-sm-6 text-center text-sm-end">
                             <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
